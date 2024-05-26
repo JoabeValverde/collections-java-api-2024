@@ -1,10 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-P
- src/application/Listatarefa.java,8\a\8ab00d0611d20f8939f104257c04eb5b7df5fa15
-I
-src/list/Listatarefa.java,7\6\76c0cee4fd2fef98d98e85f3bd3abba5a6c362e6
 Z
 *src/list/OperacoesBasicas/Listatarefa.java,6\7\6780709def11442f6571bc3278cf6adaa00a1a17
 U
@@ -15,3 +9,7 @@ Z
 0src/list/OperacoesBasicas/CarrinhoDeCompras.java,8\7\874a432e4677bbfba949dbd8355ed7257e532211
 S
 #src/list/OperacoesBasicas/Item.java,6\5\656c4236b98ce7fc5aec09e547df9c844738f9be
+^
+.src/list/OperacoesBasicas/Pesquisas/Livro.java,6\e\6e9b894828a8fd27315722829d9626ab7eb01938
+g
+7src/list/OperacoesBasicas/Pesquisas/CatalogoLivros.java,8\a\8a8145d4a55692b73b8a220fea4fe3a3edae275b

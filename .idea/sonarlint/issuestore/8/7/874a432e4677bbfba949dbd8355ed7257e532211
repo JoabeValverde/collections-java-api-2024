@@ -1,13 +1,13 @@
 
-ˆ	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(ÿğ¥¤8‹‡Ø­û1J$861aa2cd-7d48-4954-9018-3808b10577c8
+ˆ	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(ÿğ¥¤8‹‡Ø­û1J$9211a6b3-6c6d-4b13-b786-a1f37147eb7a
 Š
-java:S1192B"GDefine a constant instead of duplicating this literal "LÃ¡pis" 3 times.(ªåÙ¸8Œ‡Ø­û1J$89d9122c-2c35-4b13-94f5-14e009595a6e
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ú¦ûøÿÿÿÿ8‡Ø­û1J$0d7f853f-b4da-46df-8449-1cc2548368e6
+java:S1192B"GDefine a constant instead of duplicating this literal "LÃ¡pis" 3 times.(ªåÙ¸8Œ‡Ø­û1J$93e9a94c-68dd-4d4a-8e9e-73820987f129
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ú¦ûøÿÿÿÿ8‡Ø­û1J$ad4bdf76-7918-4760-bccc-a75604065c48
 €
-java:S1854"8Remove this useless assignment to local variable "item".(¿ïóÍûÿÿÿÿ8“‡Ø­û1J$ed13747a-ee64-4e07-aef1-67722239c2c9
+java:S1854"8Remove this useless assignment to local variable "item".(¿ïóÍûÿÿÿÿ8“‡Ø­û1J$9cd43818-7de4-463e-bfeb-f9397afb8bca
 q
-java:S1481")Remove this unused "item" local variable.(¿ïóÍûÿÿÿÿ8”‡Ø­û1J$cd5b4e83-1475-4df5-98af-66788dd0fa57
-r	java:S106"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8•‡Ø­û1J$5eb42ad2-ca2c-4510-915f-fb227e7898fe
-m	java:S1060"+Replace this use of System.out by a logger.(ˆç“±8—‡Ø­û1J$b4d04501-5ba1-4674-981a-8b149462d6ee
-r	java:S1062"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8—‡Ø­û1J$f1e18ab2-2a53-442e-9d67-d7823d97c52f
-m	java:S106T"+Replace this use of System.out by a logger.(†ŒÜï8œÆÚ­û1J$c62c3d28-cd2c-4ac2-b581-c1af755679f3
+java:S1481")Remove this unused "item" local variable.(¿ïóÍûÿÿÿÿ8”‡Ø­û1J$e9615412-7ae1-480d-b942-92845acaa29e
+r	java:S106"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8•‡Ø­û1J$5b844688-bb48-4575-99aa-050037b418ba
+m	java:S1060"+Replace this use of System.out by a logger.(ˆç“±8—‡Ø­û1J$c3d0ca3b-d28d-4038-addc-8f1669403b65
+r	java:S1062"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8—‡Ø­û1J$52413d25-92e1-4c29-a4fc-9d35ca3ca21b
+m	java:S106T"+Replace this use of System.out by a logger.(†ŒÜï8œÆÚ­û1J$cb3e3602-a3b0-4bb3-8a64-370295bfd3fc
