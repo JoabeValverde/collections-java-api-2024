@@ -13,3 +13,7 @@ S
 .src/list/OperacoesBasicas/Pesquisas/Livro.java,6\e\6e9b894828a8fd27315722829d9626ab7eb01938
 g
 7src/list/OperacoesBasicas/Pesquisas/CatalogoLivros.java,8\a\8a8145d4a55692b73b8a220fea4fe3a3edae275b
+V
+&src/list/Pesquisas/CatalogoLivros.java,7\c\7ccf382131796167baab439905591a0d21e0bc6d
+M
+src/list/Pesquisas/Livro.java,8\b\8b84abee7b52a20227b0310189668d953fe8b63b
