@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8îšáü1
+g	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8îšáü1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "A lista estÃ¡ vazia!" 3 times.(ÈñØìüÿÿÿÿ8ïšáü1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ªÙ€J$4a2b00f1-6647-41c2-b575-db24bc122759
+L	java:S106*"+Replace this use of System.out by a logger.(‡ÓÂ¹ûÿÿÿÿ8ûšáü1
+L	java:S106,"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8ûšáü1
+G	java:S106?"+Replace this use of System.out by a logger.(ÚÉƒ­8üšáü1
+L	java:S106E"+Replace this use of System.out by a logger.(ğ™ó°üÿÿÿÿ8üšáü1
