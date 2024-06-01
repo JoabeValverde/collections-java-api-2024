@@ -33,3 +33,13 @@ N
 src/set/Ordenacao/Produto.java,8\e\8eb242f7fc624a20230f0251994779ca7a337b26
 W
 'src/set/Ordenacao/CadastroProdutos.java,e\2\e27ca8b22faff33b507c215c38e460129a605a45
+\
+,src/map/OperacoesBasicas/AgendaContatos.java,3\4\34f50cc82733bd6ff9d146b9b593036b5d436b2f
+U
+%src/map/Pesquisa/EstoqueProdutos.java,a\2\a285776d1c8094e1318d7e49c6f139468b49615a
+M
+src/map/Pesquisa/Produto.java,6\4\64dd57f584d8c9371ac7f1c0c33c3b524fd166e8
+M
+src/map/Ordenacao/Evento.java,b\1\b12a7e7ad030eff01cf3b63807248372cef96789
+T
+$src/map/Ordenacao/AgendaEventos.java,4\c\4cd513367aa7ba0f751985e3a884eeebbd9bd6c5

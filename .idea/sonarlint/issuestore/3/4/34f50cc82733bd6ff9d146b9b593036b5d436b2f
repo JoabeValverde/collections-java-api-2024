@@ -1,0 +1,11 @@
+
+
+java:S11923"GDefine a constant instead of duplicating this literal "Camila" 3 times.(¼ãºúÿÿÿÿ8  Ç‹ı1J$f109d8c4-0fea-4bb8-8442-308590154c45
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÃ·‰ùÿÿÿÿ8¡ Ç‹ı1J$ad8621be-1086-4de7-b08a-951efcd8f009
+r	java:S106"+Replace this use of System.out by a logger.(¢¸•øÿÿÿÿ8© Ç‹ı1J$3e32d67f-8c03-468a-b22a-ba828b7cbc9b
+m	java:S106"+Replace this use of System.out by a logger.(ÏÌ¾’8© Ç‹ı1J$88b0384f-0b95-43da-bdfc-c39e9b545667
+r	java:S106"+Replace this use of System.out by a logger.(¢¸•øÿÿÿÿ8ª Ç‹ı1J$b0a14ad3-cb41-44a1-acf3-8cd83d2f6067
+r	java:S106("+Replace this use of System.out by a logger.(£ì–øüÿÿÿÿ8ª Ç‹ı1J$c803086f-edbd-4afc-9a98-1f0ca46491dc
+r	java:S106+"+Replace this use of System.out by a logger.(œ¸Á—úÿÿÿÿ8ª Ç‹ı1J$71616188-6f6a-40c3-a7ca-16c600dc7e7e
+m	java:S106B"+Replace this use of System.out by a logger.(®÷ë´8¬ Ç‹ı1J$cd695521-01c2-4f3c-8262-7b7700c03736
+m	java:S106F"+Replace this use of System.out by a logger.(´ÃÅĞ8¬ Ç‹ı1J$5734d7c8-9df8-41a8-879e-ca9538ca4db5
